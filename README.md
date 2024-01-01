@@ -9,7 +9,7 @@ Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
 With a background in freelance front-end development, nowadays I am mainly building full apps with Next.js or React or doing HackerRank challenges in Python/PHP/Elixir/Rust/C#.
 
 * 🌍  I'm based in Serbia 🇷🇸
-* 🖥️  See my [portfolio](https://portfolio-website-dburic717080.vercel.app/)
+* 🖥️  See my [portfolio](https://three-portfolio-seven.vercel.app/)
 * ✉️  You can contact me at [outlook](mailto:dburic717@outlook.com)
 * 🚀  I'm currently working in [Rocket Web Framework for Rust](https://rocket.rs/).
 * ⚡  My enjoyment is following tech trends and building highly optimized full stack apps.
@@ -44,3 +44,7 @@ alt="Python Rank 1" height="430" width="800">
 ## My portfolio
 
 https://three-portfolio-seven.vercel.app/
+
+## Old portfolio
+
+https://portfolio-website-dburic717080.vercel.app/
